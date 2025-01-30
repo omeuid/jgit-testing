@@ -1,0 +1,3 @@
+ALTER USER carlos
+GRANT CONNECT ON a1;
+
